@@ -4,6 +4,8 @@ Adalah sebuah forum berbasis website yang memfasilitasi penggunanya untuk memana
 - Slink UAS : Versi Akhir
 - Mulai dikembangkan lagi dari sisi responsive dan kenyamanan
 
+**``Website belum di deploy karena keterbatasan sumber daya, dimana remote mysql database gratis yang bertebaran di internet rata-rata tidak mendukung fitur-fitur MySQL advance seperti function, store procedure, trigger, dll``**
+
 ## Tujuan Dibuat
 -  Menjadi tempat khusus berdiskusi disertai link yang relevan
 -  Menjadi tempat dimana informsi yang kredibel dapat diperoleh
